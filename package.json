@@ -1,0 +1,24 @@
+{
+  "name": "student-management-rest-api",
+  "version": "1.0.0",
+  "description": "In-memory Student Management REST API built with Node.js and Express for Web Dev III Unit 2.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "student",
+    "rest-api",
+    "express",
+    "assignment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
